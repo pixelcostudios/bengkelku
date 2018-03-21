@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="11dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/textView12"
+        android:layout_gravity="right" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="HELP"
+        android:id="@+id/textView13"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_gravity="center_horizontal"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="292dp"
+        android:id="@+id/imageView3"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/ss" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/textView10"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="374dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="1.“PANTAI” Berisi tentang tempat wisata berkategori pantai di Kulon Progo."
+        android:id="@+id/textView11"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textColor="#060606"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/textView121"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="374dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="2.“GUA” Berisi tentang tempat wisata berkategori gua di Kulon Progo."
+        android:id="@+id/textView132"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textColor="#060606"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/textView4"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="374dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="3.“WADUK/DANAU” Berisi tentang tempat wisata berkategori waduk/danau di Kulon Progo"
+        android:id="@+id/textView5"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textColor="#060606"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/textView78"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="374dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="4.“PEGUNUNGAN” Berisi tentang tempat wisata berkategori pegunungan di Kulon Progo"
+        android:id="@+id/textView55"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textColor="#060606"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/textView785"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="374dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="5.“TEMPAT MAKAN” Berisi tentang tempat kuliner di Kulon Progo"
+        android:id="@+id/textView505"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textColor="#060606"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/textView47"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="374dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="6.“BANTUAN” Berisi informasi aplikasi hallo kulon progo"
+        android:id="@+id/textView52"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textColor="#060606"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/textView429"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="374dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="7“ABOUT” Berisi infrmasi tentang aplikasi."
+        android:id="@+id/textView546"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textColor="#060606"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/textView489"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="374dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="8. Jika di sentuh akan menuju ke informasi tersebut"
+        android:id="@+id/textView556"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textColor="#060606"/>
+
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="18dp"
+        android:layout_gravity="right" />
+
+    <ImageView
+        android:layout_width="285dp"
+        android:layout_height="360dp"
+        android:id="@+id/imageView4"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/ic25" />
+
+</LinearLayout>
+    </ScrollView>

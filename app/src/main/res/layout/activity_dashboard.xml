@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:columnCount="3"
+        android:useDefaultMargins="true">
+
+        <Button
+            android:id="@+id/btn_honda"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginBottom="10dp"
+            android:background="@mipmap/icon_honda"
+            android:text="" />
+
+        <Button
+            android:id="@+id/btn_kawasaki"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="10dp"
+            android:background="@mipmap/icon_kawasaki"
+            android:text="" />
+
+        <Button
+            android:id="@+id/btn_yamaha"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginBottom="10dp"
+            android:background="@mipmap/icon_yamaha"
+            android:text="" />
+
+        <Button
+            android:id="@+id/btn_suzuki"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginBottom="10dp"
+            android:background="@mipmap/icon_suzuki"
+            android:text="" />
+
+        <Button
+            android:id="@+id/btn_bajaj"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="10dp"
+            android:background="@mipmap/icon_bajaj"
+            android:text="" />
+
+        <Button
+            android:id="@+id/btn_tvs"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="0dp"
+            android:background="@mipmap/icon_tvs"
+            android:text="" />
+
+
+        <Button
+            android:id="@+id/btn_harley"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@mipmap/icon_harley"
+            android:text="" />
+
+        <Button
+            android:id="@+id/btn_bmw"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@mipmap/icon_bmw"
+            android:text="" />
+
+        <Button
+            android:id="@+id/btn_ducati"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="0dp"
+            android:background="@mipmap/icon_ducati"
+            android:text="" />
+
+        <!--<Button-->
+            <!--android:id="@+id/btn_logout"-->
+            <!--android:layout_width="130dp"-->
+            <!--android:layout_height="130dp"-->
+            <!--android:layout_marginLeft="15dp"-->
+            <!--android:layout_marginRight="15dp"-->
+            <!--android:background="@mipmap/icon_logout_home"-->
+            <!--android:text="" />-->
+
+    </GridLayout>
+
+</LinearLayout>

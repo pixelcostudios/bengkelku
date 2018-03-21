@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical" android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:weightSum="1"
+android:textAlignment="center">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="11dp"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:id="@+id/textView12"
+    android:layout_gravity="right" />
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:text="About"
+    android:id="@+id/textView13"
+    android:textAlignment="center" />
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="10dp"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:id="@+id/textView14" />
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:text="Nama Aplikasi"
+    android:id="@+id/textView15"
+    android:textAlignment="center"
+    android:textColorLink="@color/abc_background_cache_hint_selector_material_dark"
+    android:textColor="#060606" />
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceSmall"
+    android:text="Hallo Kulon Progo"
+    android:id="@+id/textView16"
+    android:layout_gravity="center_horizontal"
+    android:textAlignment="center" />
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="11dp"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:id="@+id/textView17"
+    android:layout_gravity="center_horizontal" />
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:text="Versi"
+    android:id="@+id/textView18"
+    android:layout_gravity="center_horizontal"
+    android:textAlignment="center"
+    android:textColor="#060606" />
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceSmall"
+    android:text="Ver 1.0"
+    android:id="@+id/textView19"
+    android:layout_gravity="center_horizontal"
+    android:textAlignment="center" />
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="11dp"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:id="@+id/textView20"
+    android:layout_gravity="center_horizontal" />
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:text="Pengembang"
+    android:id="@+id/textView21"
+    android:layout_gravity="center_horizontal"
+    android:textAlignment="center"
+    android:textColor="#060606" />
+
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceSmall"
+    android:text="Asnur Amirudin"
+    android:id="@+id/textView22"
+    android:layout_gravity="center_horizontal"
+    android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Dwi yahya romahdhoni"
+        android:id="@+id/textView422"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center" />
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="11dp"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:id="@+id/textView23"
+    android:layout_gravity="center_horizontal" />
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:text="Tahun"
+    android:id="@+id/textView24"
+    android:textAlignment="center"
+    android:textColor="#060606" />
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceSmall"
+    android:text="2017"
+    android:id="@+id/textView25"
+    android:layout_gravity="center_horizontal"
+    android:textAlignment="center"
+    android:layout_weight="0.67" />
+
+
+    </LinearLayout>
