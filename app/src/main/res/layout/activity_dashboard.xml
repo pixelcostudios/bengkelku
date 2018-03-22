@@ -99,6 +99,33 @@
             android:background="@mipmap/icon_ducati"
             android:text="" />
 
+        <Button
+            android:id="@+id/btn_toyota"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="0dp"
+            android:background="@mipmap/icon_toyota"
+            android:text="" />
+
+        <Button
+            android:id="@+id/btn_mitsubishi"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="0dp"
+            android:background="@mipmap/icon_mitsubishi"
+            android:text="" />
+
+        <Button
+            android:id="@+id/btn_honda_motor"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="0dp"
+            android:background="@mipmap/icon_honda_motor"
+            android:text="" />
+
         <!--<Button-->
             <!--android:id="@+id/btn_logout"-->
             <!--android:layout_width="130dp"-->
